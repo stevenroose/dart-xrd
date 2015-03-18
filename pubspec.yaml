@@ -1,0 +1,10 @@
+name: xrd
+description: Extensible Resource Descriptors
+version: 0.1.0
+author: Steven Roose <stevenroose@gmail.com>
+homepage: https://github.com/stevenroose/dart-xrd
+dependencies:
+  collection: ">=1.1.0 <2.0.0"
+  xml: ">=2.2.3 <3.0.0"
+dev_dependencies:
+  unittest: any
